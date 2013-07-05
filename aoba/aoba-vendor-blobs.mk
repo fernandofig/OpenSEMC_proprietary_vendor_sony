@@ -147,6 +147,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/aoba/proprietary/lib/libfmradio.brcm-prop_rx.so:system/lib/libfmradio.brcm-prop_rx.so \
     vendor/sony/aoba/proprietary/lib/libfmradio.so:system/lib/libfmradio.so \
     vendor/sony/aoba/proprietary/lib/libgemini.so:system/lib/libgemini.so \
+    vendor/sony/aoba/proprietary/lib/libhwcexternal.so:system/lib/libhwcexternal.so \
+    vendor/sony/aoba/proprietary/lib/libhwcservice.so:system/lib/libhwcservice.so \
     vendor/sony/aoba/proprietary/lib/libidd.so:system/lib/libidd.so \
     vendor/sony/aoba/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/sony/aoba/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \

@@ -134,6 +134,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hikari/proprietary/lib/libfmradio.brcm-prop_rx.so:system/lib/libfmradio.brcm-prop_rx.so \
     vendor/sony/hikari/proprietary/lib/libfmradio.so:system/lib/libfmradio.so \
     vendor/sony/hikari/proprietary/lib/libgemini.so:system/lib/libgemini.so \
+    vendor/sony/hikari/proprietary/lib/libhwcexternal.so:system/lib/libhwcexternal.so \
+    vendor/sony/hikari/proprietary/lib/libhwcservice.so:system/lib/libhwcservice.so \
     vendor/sony/hikari/proprietary/lib/libidd.so:system/lib/libidd.so \
     vendor/sony/hikari/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/sony/hikari/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \

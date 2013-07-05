@@ -138,6 +138,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/lib/libfmradio.brcm-prop_rx.so:system/lib/libfmradio.brcm-prop_rx.so \
     vendor/sony/nozomi/proprietary/lib/libfmradio.so:system/lib/libfmradio.so \
     vendor/sony/nozomi/proprietary/lib/libgemini.so:system/lib/libgemini.so \
+    vendor/sony/nozomi/proprietary/lib/libhwcexternal.so:system/lib/libhwcexternal.so \
+    vendor/sony/nozomi/proprietary/lib/libhwcservice.so:system/lib/libhwcservice.so \
     vendor/sony/nozomi/proprietary/lib/libidd.so:system/lib/libidd.so \
     vendor/sony/nozomi/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/sony/nozomi/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
