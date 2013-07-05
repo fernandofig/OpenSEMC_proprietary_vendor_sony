@@ -39,6 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/qcom-common/proprietary/lib/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
     vendor/sony/qcom-common/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
     vendor/sony/qcom-common/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+    vendor/sony/qcom-common/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/sony/qcom-common/proprietary/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
     vendor/sony/qcom-common/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
     vendor/sony/qcom-common/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
