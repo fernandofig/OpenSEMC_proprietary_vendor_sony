@@ -42,5 +42,14 @@ PRODUCT_COPY_FILES += \
     vendor/sony/qcom-common/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/sony/qcom-common/proprietary/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
     vendor/sony/qcom-common/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
+    vendor/sony/qcom-common/proprietary/lib/libmercury.so:system/lib/libmercury.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxEvrcDec.so:system/lib/libOmxEvrcDec.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxQcelp13Dec.so:system/lib/libOmxQcelp13Dec.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/sony/qcom-common/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/sony/qcom-common/proprietary/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so
