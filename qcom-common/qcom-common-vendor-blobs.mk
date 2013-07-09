@@ -29,6 +29,14 @@ PRODUCT_COPY_FILES += \
     vendor/sony/qcom-common/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/sony/qcom-common/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/sony/qcom-common/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxEvrcDec.so:system/lib/libOmxEvrcDec.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxQcelp13Dec.so:system/lib/libOmxQcelp13Dec.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
+    vendor/sony/qcom-common/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/sony/qcom-common/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
     vendor/sony/qcom-common/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/sony/qcom-common/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
