@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/bin/clearpad_fwloader:system/bin/clearpad_fwloader \
     vendor/sony/nozomi/proprietary/bin/fast-dormancy:system/bin/fast-dormancy \
     vendor/sony/nozomi/proprietary/bin/hostapd:system/bin/hostapd \
-    vendor/sony/nozomi/proprietary/bin/hostapd_cli:system/bin/hostapd_cli \
     vendor/sony/nozomi/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/sony/nozomi/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/sony/nozomi/proprietary/bin/nvcustomizer:system/bin/nvcustomizer \
@@ -50,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/bin/updatemiscta:system/bin/updatemiscta \
     vendor/sony/nozomi/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/sony/nozomi/proprietary/bin/wait4tad:system/bin/wait4tad \
-    vendor/sony/nozomi/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/sony/nozomi/proprietary/etc/clearpad_fwloader.sh:system/etc/clearpad_fwloader.sh \
     vendor/sony/nozomi/proprietary/etc/fast-dormancy/fd_custm_conf.txt:system/etc/fast-dormancy/fd_custm_conf.txt \
     vendor/sony/nozomi/proprietary/etc/fast-dormancy/fd_ext_conf.txt:system/etc/fast-dormancy/fd_ext_conf.txt \
